@@ -1,7 +1,7 @@
 - 👋 Hi there, I’m Utkarsh
 @utkarshpotdukhe
 - 👀 I’m interested in Software Developer
-- 💻 I'm Currently Working on Chegg Expert
+- 💻 I'm Currently Working on Trade
 
 
 <!---
